@@ -1,0 +1,21 @@
+/.env
+/scraper_base.py
+/generate_reqs.py
+/RUN SCRIPT SII BOT.gif
+/scraper.py
+/.venv/
+/build/
+/dist/
+sii_bot.log
+*.egg-info/
+/diagnostico/
+/.perfil_sii/
+/faq/paginas/
+__pycache__/
+/declaraciones/
+/f22/
+/run sii bot.gif
+/faq/bajar.log
+# Planificación personal (la lee TODO Bot en local)
+/project_charter.md
+/backlog.csv

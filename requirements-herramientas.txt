@@ -1,0 +1,5 @@
+# Lo que usan diagnostico.py y faq/faq_scraper.py (el bot del F29 solo necesita requirements.txt)
+-r requirements.txt
+playwright==1.61.0
+requests==2.32.4
+beautifulsoup4==4.13.4

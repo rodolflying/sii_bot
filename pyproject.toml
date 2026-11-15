@@ -1,0 +1,16 @@
+[project]
+name = "sii-bot"
+version = "2.0.0"
+description = "Automatiza tareas del SII: F29 sin movimiento, diagnóstico de solo lectura y base de conocimiento de las FAQ"
+
+# Configuración de cx_Freeze: se compila con `cxfreeze build` (o build.bat)
+[tool.cxfreeze]
+executables = [
+    { script = "main.py", base = "gui", target_name = "SII Bot F29" },
+]
+
+[tool.cxfreeze.build_exe]
+build_exe = "build/SII Bot F29"
+include_msvcr = true
+# selenium.webdriver importa los drivers de forma perezosa y cx_Freeze no los detecta solo
+packages = ["selenium"]
