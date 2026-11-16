@@ -78,7 +78,7 @@ El bot descarga el certificado PDF si el mes no estaba declarado y lo renombra c
 
 ## 📰 Historia
 
-La primera versión (abril 2025) solo declaraba el F29 sin movimiento desde la consola y está explicada en [este artículo de Medium](https://medium.com/@rodolfo.antonio.sep/%EF%B8%8F-automatiza-la-declaraci%C3%B3n-f29-sin-movimientos-en-chile-con-python-y-selenium-d3739db8dfe4). En noviembre 2026 el repositorio se publicó de nuevo con historial limpio, sin certificados ni registros de declaraciones.
+La primera versión (abril 2025) solo declaraba el F29 sin movimiento desde la consola y está explicada en [este artículo de Medium](https://medium.com/@rodolfo.antonio.sep/%EF%B8%8F-automatiza-la-declaraci%C3%B3n-f29-sin-movimientos-en-chile-con-python-y-selenium-d3739db8dfe4). En noviembre 2026 el repositorio se publicó de nuevo con historial limpio, sin certificados ni registros de declaraciones. La versión 2 está explicada en [sii_bot v2: de declarar el F29 sin movimientos a revisar la salud tributaria de tu empresa](https://medium.com/@rodolfo.antonio.sep/sii-bot-v2-de-declarar-el-f29-sin-movimientos-a-revisar-la-salud-tributaria-de-tu-empresa-e78fdb03ccac).
 
 ## 🤝 Contacto
 
